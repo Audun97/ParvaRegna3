@@ -96,7 +96,7 @@ author:
   name             : "Odin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         :
+  location         : false
   email            :
   links:
     - label: "Email"
