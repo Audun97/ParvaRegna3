@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Odin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Student and technology enthusiast"
   location         : false
   email            :
   links:
@@ -119,7 +119,7 @@ author:
       # url: "https://instagram.com/"
 
 # Site Footer
-footer:
+footer: false
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
